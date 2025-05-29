@@ -1,0 +1,23 @@
+/* Style for custom span highlights */
+.highlight {
+    color: darkred;
+    font-weight: bold;
+}
+
+.fancy {
+    font-style: italic;
+    font-size: 1.1em;
+    color: navy;
+}
+
+/* Custom border for main image */
+.border-img {
+    border: 4px solid #444;
+    padding: 5px;
+}
+
+/* Optional custom class for adding padding or background */
+.custom-bg {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
